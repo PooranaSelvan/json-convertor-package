@@ -3,7 +3,6 @@
 A **zero-dependency** YAML to JSON converter for Node.js. Written from scratch — no `js-yaml`, no `yaml`, no external libraries. Just **3.9 kB** compressed.
 
 [![npm version](https://img.shields.io/npm/v/yaml2json-api)](https://www.npmjs.com/package/yaml2json-api)
-[![license](https://img.shields.io/npm/l/yaml2json-api)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -189,6 +188,5 @@ import { parse, convertFile, convertDir } from "yaml2json-api/index.js";
 | **Size** | 3.9 kB compressed, 12 kB unpacked |
 | **Dependencies** | Zero |
 | **Node.js** | >= 12.0.0 |
-| **License** | MIT |
 
 ---
