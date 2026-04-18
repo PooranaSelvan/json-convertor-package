@@ -1,0 +1,15 @@
+{
+  "name": "yaml2json-api",
+  "version": "1.0.0",
+  "description": "A zero-dependency YAML to JSON converter for Node.js",
+  "main": "index.js",
+  "keywords": ["yaml", "json", "converter", "parser", "no-dependencies"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "files": [
+    "index.js",
+    "yaml-parser.js"
+  ]
+}
